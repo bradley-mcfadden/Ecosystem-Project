@@ -1,6 +1,6 @@
 # Ecosystem-Project
 
-![ss1]()
+![ss1](https://github.com/bradley-mcfadden/Ecosystem-Project/blob/master/ss3.png)
 
 ---
 
